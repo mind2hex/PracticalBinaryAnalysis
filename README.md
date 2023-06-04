@@ -1,2 +1,2 @@
 # PracticalBinaryAnalysis
-Programs I made to study the practical binary analysis book
+Programs I made from the book practical binary analysis
